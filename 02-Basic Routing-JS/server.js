@@ -2,7 +2,7 @@ import express from 'express';
 import userRouter from "./Routes/userRouter.js"
 
 const hostName= "127.0.0.1";
-const port = 9999;
+const port = 8888;
 
 const app = express();
 
